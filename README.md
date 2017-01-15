@@ -1,17 +1,17 @@
-EarthCoin 2.0
+EarthCoin 2.x
 =============
 
 EarthCoin was born 20 December 2013 and reborn 13 January 2017 with a new agenda focused on giving back to the Earth.
 
-  - EarthCoin 2.0 will begin development on multi-algorithm mining using its original Scryt and adding SHA-256 with the intention of giving those who have left the GPU mining community to take up mining with SHA-256 ASICs the ability of contirbuting a little hash to assist EarthCoin in meeting its goal of providing capital to legally registered non-profits focused on helping our ecosystem.
+  - EarthCoin will begin development on multi-algorithm mining using its original Scryt and adding SHA-256 with the intention of giving those who have left the GPU mining community to take up mining with SHA-256 ASICs the ability of contirbuting a little hash to assist EarthCoin in meeting its goal of providing capital to legally registered non-profits focused on helping our ecosystem.
   
-  - EarthCoin 2.0 will provide non-profits with funds to help further their cause by allocating 20% of its block rewards to a donation account kept in escrow and overseen by elected members of the community.  This escrow account can only be distributed after a non-profit is selected by the community and all elected officers agree to distribution thereby giving no single individual control of funds.
+  - EarthCoin will provide non-profits with funds to help further their cause by allocating 20% of its block rewards to a donation account kept in escrow and overseen by elected members of the community.  This escrow account can only be distributed after a non-profit is selected by the community and all elected officers agree to distribution thereby giving no single individual control of funds.
   
-  - Having a worthy cause behind EarthCoin 2.0, I believe it will find new and long lasting support therefor increasing its value for miners, as well as, those receiving donations from our orginization.  
+  - Having a worthy cause behind EarthCoin, I believe it will find new and long lasting support therefor increasing its value for miners, as well as, those receiving donations from our orginization.  
   
   - Those interested in contributing may contact me at earthcoin2@gmail.com.  Thank you, Aaron Pearson (aka: stonedpuppy1)
   
-EarthCoin 2.0 will have a new website at earthcoin.us soon!
+EarthCoin will have a new website at earthcoin.us soon!
 
 ----------------
 
@@ -70,11 +70,11 @@ License
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2013-2014 EarthCoin Developers
-Copyright (c) 2017 EarthCoin 2.0 Developers
+Copyright (c) 2017 EarthCoin 2.x Developers
 
-EarthCoin 2.0 is released under the terms of the MIT license. See `COPYING` for more
+EarthCoin 2 is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 For more information, as well as an immediately useable, binary version of
-the EarthCoin 2.0 client sofware, see http://www.earthcoin.us
+the EarthCoin client sofware, see http://www.earthcoin.us
 
