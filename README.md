@@ -72,7 +72,7 @@ Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2013-2014 EarthCoin Developers
 Copyright (c) 2017 EarthCoin 2.x Developers
 
-EarthCoin 2 is released under the terms of the MIT license. See `COPYING` for more
+EarthCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 For more information, as well as an immediately useable, binary version of
